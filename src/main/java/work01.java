@@ -7,6 +7,9 @@ public class work01 {
         System.out.println("wo");
         System.out.println("wo1");
             System.out.println("wo1");
-        
+         ds2s();
     }
+     public static void  ds2s(){
+       System.out.println("adadff");
+   }
 }
