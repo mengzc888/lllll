@@ -7,10 +7,13 @@ public class work01 {
         System.out.println("wo");
         System.out.println("wo1");
         System.out.println("wo1");
+        ds2s();
         dss();
-
-
     }
+
+     public static void  ds2s(){
+       System.out.println("adadff");
+   }
    public static void  dss(){
        System.out.println("adadff");
    }

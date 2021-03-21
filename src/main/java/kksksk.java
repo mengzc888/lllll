@@ -10,6 +10,7 @@ public class kksksk {
         System.out.println("夹功能");
         mam();
         mam212();
+         mam12();
     }
 
     protected  static void  mam(){
