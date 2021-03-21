@@ -8,5 +8,9 @@ public class kksksk {
         System.out.println("ooo");
         System.out.println("2oo");
         System.out.println("夹功能");
+        
+    }
+        protected  static void  mam1(){
+        System.out.println("ssss");
     }
 }
