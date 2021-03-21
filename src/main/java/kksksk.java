@@ -10,7 +10,7 @@ public class kksksk {
         System.out.println("夹功能");
         mam();
     }
-    
+
     protected  static void  mam(){
         System.out.println("ssss");
     }
