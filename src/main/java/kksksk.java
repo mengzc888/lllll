@@ -15,4 +15,9 @@ public class kksksk {
         System.out.println("ssss");
     }
 
+    protected  static void  mam22(){
+        System.out.println("ssss");
+    }
+
+
 }
