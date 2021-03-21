@@ -6,5 +6,6 @@ public class kksksk {
 
     public static void main(String[] args) {
         System.out.println("ooo");
+        System.out.println("夹功能");
     }
 }
